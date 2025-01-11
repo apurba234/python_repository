@@ -1,0 +1,1 @@
+This is the text file and the same contents will be written in the backup file too after the execution of the program.
