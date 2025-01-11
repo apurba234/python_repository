@@ -1,0 +1,10 @@
+This is the file for question number 3 of the portfolio programs.
+USA: New York
+Iraq: Baghdad
+USA: Dallas
+UK: London
+UAE: Ajman
+UAE: Dubai
+USA: Jacksonville
+
+

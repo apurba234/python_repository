@@ -1,0 +1,17 @@
+Hello 
+this 
+is 
+the
+dictionary
+file
+to
+check
+for 
+the 
+last 
+question 
+of 
+the 
+python 
+portfolio 
+tasks 

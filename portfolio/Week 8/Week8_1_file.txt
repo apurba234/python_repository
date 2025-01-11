@@ -1,0 +1,6 @@
+This is the demo file 
+for the question number 
+1 of week 8 python portfolio 
+and it contains multiple lines
+where the code can print it 
+including the total number of lines.
